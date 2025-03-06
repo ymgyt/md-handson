@@ -1,0 +1,6 @@
+{
+	"scripts": {
+		"lint": "markdownlint-cli2 policies/**.md"
+	},
+	"devDependencies": { "markdownlint-cli2": "^0.17.2" }
+}

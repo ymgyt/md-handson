@@ -1,0 +1,10 @@
+{
+  "default": true,
+  "MD022": {
+    // Heading の直後に改行を要求しない
+    //"lines_below": 0,
+    "lines_above": 1
+  },
+  // list の前後に改行を要求しない
+  "MD032": false
+}
